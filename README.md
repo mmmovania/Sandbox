@@ -7,6 +7,11 @@ This demo shows how to do GPU based volume rendering in WebGL. The tech stack us
 
 [![Watch the video](http://img.youtube.com/vi/ojGpmq7MxCo/0.jpg)](https://youtu.be/ojGpmq7MxCo)
 
+# LeapMotion interaction with Cloth
+This demo shows real-time interaction of LeapMotion controller with a cloth piece. The tech stack used is OpenGL, C++ and the LeapMotion sdk. For cloth simulation, I used my own open source library (OpenCloth).
+
+[![Watch the video](http://img.youtube.com/vi/br9-k81XQKY/0.jpg)](https://youtu.be/br9-k81XQKY)
+
 # Polygonal Mesh Collision with Cloth
 This demo shows an extension to my opensource library OpenCloth. I show how to resolve collision between a mesh and cloth using OpenGL and C++.
 
