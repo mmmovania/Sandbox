@@ -12,6 +12,11 @@ This demo shows real-time interaction of LeapMotion controller with a cloth piec
 
 [![Watch the video](http://img.youtube.com/vi/br9-k81XQKY/0.jpg)](https://youtu.be/br9-k81XQKY)
 
+# LeapMotion interaction with Rigid Bodies in Unity
+This demo shows how to use the LeapMotion controller with the Unity Game Engine. The LeapMotion sdk and the Unity Game engine were used for this demo.
+
+[![Watch the video](http://img.youtube.com/vi/PujZX544JTI/0.jpg)](https://youtu.be/PujZX544JTI)
+
 # Polygonal Mesh Collision with Cloth
 This demo shows an extension to my opensource library OpenCloth. I show how to resolve collision between a mesh and cloth using OpenGL and C++.
 
